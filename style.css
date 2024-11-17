@@ -1,0 +1,38 @@
+body{
+    color:white;
+    background:black;
+   margin:0px;
+   font-family: "Merriweather", serif;
+
+header{
+   border-bottom: solid 2px rgb(69,37,205,1);
+   padding: 20px;
+   font-size: 32px;
+   color:rgb(69,37,205,1)
+
+   
+
+}
+
+.chamada {
+  background: rgb(255,192,194,1);
+   padding-bottom: 80px;
+   padding-top: 80px; 
+   display:flex;
+   justify-content:center;
+}
+
+.categoria {
+margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+} 
+
+p{
+    font-size: 20px;
+}
+img{
+    height: 200px
+}
